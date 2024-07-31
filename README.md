@@ -1,0 +1,1 @@
+This project is a simple Bank Management System built using Java. It includes functionalities for user registration (sign-up), user authentication (sign-in), and basic CRUD operations for managing customer data. The project is structured into different layers: Entity, Data Access, Business Access, and Presentation Access.
